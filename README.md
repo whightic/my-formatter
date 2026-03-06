@@ -1,12 +1,20 @@
 # my-formatter
-my-formatter tutorial and examples
 
-## Contributing
+## Description
+This project provides a formatter with various utilities and examples for formatting tasks.
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+## Features
+- Formatting utilities
+- Examples for usage
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feat/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feat/amazing-feature`)
-5. Open a Pull Request
+## Installation
+To install, use:
+```
+npm install my-formatter
+```
+
+## Usage
+To use the formatter, you can run:
+```
+my-formatter <options>
+```
